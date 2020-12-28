@@ -12,18 +12,14 @@ import com.google.firebase.auth.FirebaseAuth
 class ForgotPasswordActivity : AppCompatActivity() {
 
     private lateinit var auth: FirebaseAuth
-
     private lateinit var emailEt: EditText
-
-
-
     private lateinit var resetPasswordBtn: Button
     private lateinit var back: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_forgot_password_activity)
-
+        //djsadnasdjbad
         auth = FirebaseAuth.getInstance()
 
         emailEt = findViewById(R.id.email_edt_text)
