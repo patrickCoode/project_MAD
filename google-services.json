@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232960400494",
+    "project_id": "medplan-e8ca3",
+    "storage_bucket": "medplan-e8ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232960400494:android:0a5c943ebbf14e83ce9a7f",
+        "android_client_info": {
+          "package_name": "com.hs_worms.android.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232960400494-a6fl1ff6r25nfn8nnmfitj7361ib4iia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT95FhbdCX6Se0HaAgiACPrIpF-lgl8yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232960400494-a6fl1ff6r25nfn8nnmfitj7361ib4iia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
